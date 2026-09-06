@@ -1,0 +1,5 @@
+int32 n
+float64 l
+---
+float64 exterior_angle
+float64 perimeter
